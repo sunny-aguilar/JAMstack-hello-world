@@ -8,6 +8,7 @@ const IndexPage = () => (
     <p>I'm currently studying computer science at OSU. Web development has alway been a hobby of mine and I'm taking it to the next level =D.</p>
     <p>My current studies have me focused on C++ and Python which has helped my understanding of web technologies and computers overall.</p>
     <p>I'm also currently working on FCC's front-end certificate when I can get a break from school since school can be overwhelming!</p>
+    <p>TESTING</p>
     <Link to="/page-2/">Next Page</Link>
   </div>
 )
