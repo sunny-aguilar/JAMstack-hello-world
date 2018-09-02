@@ -12,6 +12,7 @@ const IndexPage = () => (
     <ul>
       <li>JavaScript</li>
       <li>jQuery</li>
+      <li>React</li>
       <li>CSS3</li>
       <li>HTML5</li>
       <li>NPM</li>
@@ -19,6 +20,7 @@ const IndexPage = () => (
       <li>PHP</li>
       <li>MySQL</li>
       <li>AJAX</li>
+      <li>Python</li>
     </ul>
     <Link to="/page-2/">Next Page</Link>
   </div>
